@@ -55,7 +55,7 @@ A real-time queue for managing walk-in patients efficiently.
 
 - **Framework:** [NestJS](https://nestjs.com/)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Database:** [PostgreSQL](https://www.postgresql.org/) with [TypeORM](https://typeorm.io/)
+- **Database:** [MySQL](https://www.mysql.com) with [TypeORM](https://typeorm.io/)
 - **Authentication:** [Passport.js](http://www.passportjs.org/) with JWT strategy
 - **Validation:** [class-validator](https://github.com/typestack/class-validator), [class-transformer](https://github.com/typestack/class-transformer)
 
