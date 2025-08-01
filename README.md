@@ -32,22 +32,39 @@ ClinicDesk is a comprehensive, full-stack web application designed to streamline
 ### Authentication
 
 Users can create an account and sign in to access the system.
+<img width="1880" height="932" alt="Screenshot 2025-08-01 175933" src="https://github.com/user-attachments/assets/590b99a3-61ae-48bb-8807-901ab927c6c0" />
+<img width="1885" height="908" alt="Screenshot 2025-08-01 175951" src="https://github.com/user-attachments/assets/e18f968e-4074-47e6-bc6a-0f20316aa640" />
+
 
 ### Doctor Management
 
 Manage the clinic's doctors, including adding new doctors and viewing their availability.
+<img width="1882" height="936" alt="Screenshot 2025-08-01 180506" src="https://github.com/user-attachments/assets/d7bb9170-8f7f-426f-8cdd-09a4aac17e28" />
+<img width="767" height="785" alt="Screenshot 2025-08-01 180519" src="https://github.com/user-attachments/assets/923f224b-8422-4186-b068-c9629b4f5e35" />
+
+
 
 ### Patient Management
 
 Keep track of all patient records, including personal details and registration dates.
+<img width="1890" height="839" alt="Screenshot 2025-08-01 180431" src="https://github.com/user-attachments/assets/2ff66062-d2ed-4c86-b335-82a87e8ffa6f" />
+
 
 ### Appointment Scheduling
 
 Easily schedule and manage appointments between doctors and patients.
+<img width="1909" height="954" alt="Screenshot 2025-08-01 180326" src="https://github.com/user-attachments/assets/a7e909b5-a821-4949-b8cc-11a67b5fe18c" />
+<img width="705" height="782" alt="Screenshot 2025-08-01 180350" src="https://github.com/user-attachments/assets/ac77a2da-485b-43aa-8981-3312bc559d28" />
+
+
 
 ### Walk-in Queue
 
 A real-time queue for managing walk-in patients efficiently.
+<img width="1913" height="952" alt="Screenshot 2025-08-01 180204" src="https://github.com/user-attachments/assets/e4e474a3-e71c-4f70-98a1-de31f58864b6" />
+<img width="800" height="899" alt="Screenshot 2025-08-01 180405" src="https://github.com/user-attachments/assets/06c6b84e-c22f-4a86-b9b3-946f1595d9a8" />
+
+
 
 ## Tech Stack
 
@@ -116,3 +133,5 @@ A real-time queue for managing walk-in patients efficiently.
     ```
 
 The application will be available at "http://localhost:3000"  (not deployed)
+
+
