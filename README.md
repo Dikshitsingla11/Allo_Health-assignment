@@ -75,7 +75,7 @@ A real-time queue for managing walk-in patients efficiently.
 
 - [Node.js](https://nodejs.org/en/) (v18 or later)
 - [npm](https://www.npmjs.com/)
-- [PostgreSQL](https://www.postgresql.org/download/)
+- [MySQL](https://www.mysql.com)
 
 ### Installation
 
